@@ -64,7 +64,8 @@ git clone https://github.com/zou280/ResNet_NET.git
 
 下载必要文件：
 
- ResNet152 v2-7 ONNX 模型:https://github.com/onnx/models/blob/main/vision/classification/resnet/model/resnet152-v2-7.onnx
+https://github.com/onnx/models/blob/main/validated/vision/classification/resnet/model/resnet152-v2-7.onnx
+
 
 将下载的文件放在项目根目录。
 运行程序,根据提示输入图片路径进行分类。
