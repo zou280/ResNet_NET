@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZNul8kTsiLM=",
+  "success": true,
+  "projectFilePath": "F:\\识别图像\\ResNet预训练模型\\ResNet预训练模型.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZZX\\.nuget\\packages\\microsoft.ml.onnxruntime\\1.18.1\\microsoft.ml.onnxruntime.1.18.1.nupkg.sha512",
+    "C:\\Users\\ZZX\\.nuget\\packages\\microsoft.ml.onnxruntime.managed\\1.18.1\\microsoft.ml.onnxruntime.managed.1.18.1.nupkg.sha512",
+    "C:\\Users\\ZZX\\.nuget\\packages\\sixlabors.imagesharp\\3.1.5\\sixlabors.imagesharp.3.1.5.nupkg.sha512",
+    "C:\\Users\\ZZX\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
