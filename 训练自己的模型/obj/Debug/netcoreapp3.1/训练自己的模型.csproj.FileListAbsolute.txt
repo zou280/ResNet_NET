@@ -1,0 +1,5 @@
+F:\识别图像\训练自己的模型\obj\Debug\netcoreapp3.1\训练自己的模型.csproj.AssemblyReference.cache
+F:\识别图像\训练自己的模型\obj\Debug\netcoreapp3.1\训练自己的模型.GeneratedMSBuildEditorConfig.editorconfig
+F:\识别图像\训练自己的模型\obj\Debug\netcoreapp3.1\训练自己的模型.AssemblyInfoInputs.cache
+F:\识别图像\训练自己的模型\obj\Debug\netcoreapp3.1\训练自己的模型.AssemblyInfo.cs
+F:\识别图像\训练自己的模型\obj\Debug\netcoreapp3.1\训练自己的模型.csproj.CoreCompileInputs.cache
